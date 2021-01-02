@@ -5,6 +5,8 @@ author: Minhuan Li
 simple_search: http://google.com/search
 description: Research and learning notes
 name: research-notes
+markdown: kramdown
+highlighter: rouge
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 permalink: /articles/:short_year/:title
 timezone: America/New_York
