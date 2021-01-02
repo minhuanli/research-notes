@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Note list
+title: Notes List
 ---
+
+*Under Construction*
 
 [Tufte Style Jekyll blog](general/2021-01-01-tuft-style-jekyll-blog)
 
-[example1](preliminaries/introduction)
+[Example 1](preliminaries/introduction)
