@@ -141,7 +141,7 @@ The notes below are incomplete and under construction
 
 A natural question to ask, given what we've seen, is how exactly do the mean-field marginals approximate $$p(x)$$, and what makes them "good enough".
 
-To answer this question, we will take a step back, and define a more general framework for thinking about variational inference. We will then see how mean field and, interestingly, loopy belief propagation (LBP) both fall into this framework and how exactly their approximations differ. As a result, we will also see how LBP is also a form of variational inference, something we have alluded to earlier.
+To answer this question, we will take a step back, and define a more _posts framework for thinking about variational inference. We will then see how mean field and, interestingly, loopy belief propagation (LBP) both fall into this framework and how exactly their approximations differ. As a result, we will also see how LBP is also a form of variational inference, something we have alluded to earlier.
 
 First, recall that we have assumed that the distribution $$p$$ is of the form
 $$
@@ -173,7 +173,7 @@ $$
 \max_\mu \theta^T \mu - H(\mu) \text{ subject to } \mu \in \mathbb{M}.
 $$
 
-However, this by itself is not very useful. Although \mathbb{M} is convex, it is hard to describe in general (it is formed by the intersection of an exponential number of hyper-planes). Furthermore, $$H(\mu)$$ may be difficult to compute in general.
+However, this by itself is not very useful. Although \mathbb{M} is convex, it is hard to describe in _posts (it is formed by the intersection of an exponential number of hyper-planes). Furthermore, $$H(\mu)$$ may be difficult to compute in _posts.
 
 We will make this problem feasible by replacing
 

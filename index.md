@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Notes List
+title: Home
 ---
 
 *Under Construction*
 
-[Tufte Style Jekyll blog](general/2021-01-01-tuft-style-jekyll-blog)
+[Tufte Style Jekyll blog](posts/tuft-style-jekyll-blog)
 
-[Example 1](preliminaries/introduction)
+[ODE and PDEs, Notes as AM105 TF](posts/am105)
